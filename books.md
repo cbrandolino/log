@@ -3,6 +3,7 @@
 ## November 2017
 
 - Predictably Irrational, Dan Ariely, 4
+- Endless Forms Most Beautiful, Sean B. Carroll, 4
 
 ## October 2017
 
