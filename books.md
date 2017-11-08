@@ -2,8 +2,9 @@
 
 ## November 2017
 
+- Behavior: the Control of Perception, William T. Powers, 3
 - Predictably Irrational, Dan Ariely, 4
-- Endless Forms Most Beautiful, Sean B. Carroll, 4
+- Endless Forms Most Beautiful, Sean B. Carroll, 3.5
 
 ## October 2017
 
