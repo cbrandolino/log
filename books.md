@@ -2,6 +2,8 @@
 
 ## November 2017
 
+- The Origin of Wealth, Eric D. Beinocker, 4.5
+- The Dictator's Handbook, Bruce Bueno de Mesquita and Alaistar Smith, 2.5
 - Predictably Irrational, Dan Ariely, 4
 - Endless Forms Most Beautiful, Sean B. Carroll, 4
 
