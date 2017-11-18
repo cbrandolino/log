@@ -2,7 +2,7 @@
 
 ## November 2017
 
-- The Origin of Wealth, Eric D. Beinocker, 4.5
+- The Origin of Wealth, Eric D. Beinhocker, 4.5
 - The Dictator's Handbook, Bruce Bueno de Mesquita and Alaistar Smith, 2.5
 - Behavior: the Control of Perception, William T. Powers, 3
 - Predictably Irrational, Dan Ariely, 4
