@@ -2,6 +2,7 @@
 
 ## November 2017
 
+- Payoff, Dan Ariely, 3.5
 - Against the Grain, James C. Scott, 3
 - The Origin of Wealth, Eric D. Beinhocker, 4.5
 - The Dictator's Handbook, Bruce Bueno de Mesquita and Alaistar Smith, 2.5
