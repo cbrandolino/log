@@ -1,8 +1,12 @@
 # Books
 
+## December 2017
+
+- Inadequate Equilibria, Eliezer Yudkowsky, 3.5
+
 ## November 2017
 
-- Payoff, Dan Ariely, 3.5
+- Payoff, Dan Ariely, 3
 - Against the Grain, James C. Scott, 3
 - The Origin of Wealth, Eric D. Beinhocker, 4.5
 - The Dictator's Handbook, Bruce Bueno de Mesquita and Alaistar Smith, 2.5
@@ -26,4 +30,4 @@
 - Meta Math!, Gergory Chaitin, 2
 - North Korea Confidential, Tudor and Pearson, 3
 - The Language Instinct, Steven Pinker, 3
-- How to make sense of any Mess, Abby Covert, 3
+- How to make sense of any Mess, Abby Covert, 3.5
