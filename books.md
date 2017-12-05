@@ -2,7 +2,8 @@
 
 ## December 2017
 
-- Inadequate Equilibria, Eliezer Yudkowsky, 3.5
+- Misbehaving, Richard H. Thaler, 4
+- Inadequate Equilibria, Eliezer Yudkowsky, 3
 
 ## November 2017
 
