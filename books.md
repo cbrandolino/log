@@ -2,6 +2,7 @@
 
 ## December 2017
 
+- Nudge, Richard H. Thaler and Cass R. Sunstein, 3.5
 - Misbehaving, Richard H. Thaler, 4
 - Inadequate Equilibria, Eliezer Yudkowsky, 3
 
