@@ -2,9 +2,10 @@
 
 ## December 2017
 
+- Scarcity, Sendhil Mullainathan and Endar Shafir, 4.5
 - Nudge, Richard H. Thaler and Cass R. Sunstein, 3.5
 - Misbehaving, Richard H. Thaler, 4
-- Inadequate Equilibria, Eliezer Yudkowsky, 3
+- Inadequate Equilibria, Eliezer Yudkowsky, 2.5
 
 ## November 2017
 
@@ -32,4 +33,4 @@
 - Meta Math!, Gergory Chaitin, 2
 - North Korea Confidential, Tudor and Pearson, 3
 - The Language Instinct, Steven Pinker, 3
-- How to make sense of any Mess, Abby Covert, 3.5
+- How to make sense of any Mess, Abby Covert, 4
