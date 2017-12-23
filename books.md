@@ -2,6 +2,7 @@
 
 ## December 2017
 
+- The Blank Slate, Steven Pinker, 3
 - Scarcity, Sendhil Mullainathan and Endar Shafir, 4.5
 - Nudge, Richard H. Thaler and Cass R. Sunstein, 3.5
 - Misbehaving, Richard H. Thaler, 4
