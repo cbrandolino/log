@@ -1,5 +1,9 @@
 # Books
 
+## January 2018
+
+- Impro, Keith Johnstone, 4.5
+
 ## December 2017
 
 - The Blank Slate, Steven Pinker, 3
