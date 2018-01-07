@@ -2,7 +2,8 @@
 
 ## January 2018
 
-- Impro, Keith Johnstone, 4.5
+- Why Buddhism is True, Robert Wright, 4.5
+- Impro, Keith Johnstone, 4
 
 ## December 2017
 
