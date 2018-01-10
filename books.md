@@ -2,6 +2,7 @@
 
 ## January 2018
 
+- Freedom and its Betrayal, Isaiah Berlin, 3.5
 - Why Buddhism is True, Robert Wright, 4.5
 - Impro, Keith Johnstone, 4
 
