@@ -36,7 +36,7 @@
 
 - Thinking in Systems, Donella H. Meadows, 4
 - From Bacteria to Bach and back, Daniel C. Dennet, 3
-- The 7 Laws of Magical Thinking, Matthew Hutson, 3.5
+- The 7 Laws of Magical Thinking, Matthew Hutson, 3
 - Meta Math!, Gergory Chaitin, 2
 - North Korea Confidential, Tudor and Pearson, 3
 - The Language Instinct, Steven Pinker, 3
