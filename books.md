@@ -3,6 +3,7 @@
 ## January 2018
 
 - The Moral Animal, Robert Wright, 4
+- Philosophy in the Flesh, George Lakoff and Mark Johnson, 4
 - Freedom and its Betrayal, Isaiah Berlin, 3.5
 - Why Buddhism is True, Robert Wright, 4.5
 - Impro, Keith Johnstone, 4
