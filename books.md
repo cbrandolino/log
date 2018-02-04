@@ -2,6 +2,7 @@
 
 ## January 2018
 
+- The Tell-tale Brain, V.S. Ramachandran, 4
 - The Nature of Technology, W. Brian Arthur, 3.5
 - The Moral Animal, Robert Wright, 4
 - Philosophy in the Flesh, George Lakoff and Mark Johnson, 4
