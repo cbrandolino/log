@@ -30,7 +30,7 @@
 - The Dictator's Handbook, Bruce Bueno de Mesquita and Alaistar Smith, 2.5
 - Behavior: the Control of Perception, William T. Powers, 3
 - Predictably Irrational, Dan Ariely, 4
-- Endless Forms Most Beautiful, Sean B. Carroll, 3.5
+- Endless Forms Most Beautiful, Sean B. Carroll, 3
 
 ## October 2017
 
