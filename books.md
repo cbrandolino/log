@@ -2,6 +2,7 @@
 
 ## February 2018
 
+- The Strange Order of Things, Antonio Damasio, 3
 - The Once and Future Liberal, Mark Lilla, 3.5
 - Living with Complexity, Donald A. Norman, 3.5
 
