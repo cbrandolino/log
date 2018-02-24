@@ -2,6 +2,7 @@
 
 ## February 2018
 
+- The Case against Education, Bryan Caplan, 3.5
 - Principles: Life and Work, Ray Dalio, 2.5
 - The Strange Order of Things, Antonio Damasio, 3
 - The Once and Future Liberal, Mark Lilla, 3.5
