@@ -2,6 +2,7 @@
 
 ## February 2018
 
+- Galileo's Middle Finger, Alice Dreger, 4
 - The Case against Education, Bryan Caplan, 3.5
 - Principles: Life and Work, Ray Dalio, 2.5
 - The Strange Order of Things, Antonio Damasio, 3
@@ -21,7 +22,7 @@
 ## December 2017
 
 - The Blank Slate, Steven Pinker, 3
-- Scarcity, Sendhil Mullainathan and Endar Shafir, 4.5
+- Scarcity, Sendhil Mullainathan and Endar Shafir, 4
 - Nudge, Richard H. Thaler and Cass R. Sunstein, 3.5
 - Misbehaving, Richard H. Thaler, 4
 - Inadequate Equilibria, Eliezer Yudkowsky, 2.5
