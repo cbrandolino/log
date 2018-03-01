@@ -2,12 +2,13 @@
 
 ## February 2018
 
-- Galileo's Middle Finger, Alice Dreger, 4
-- The Case against Education, Bryan Caplan, 3.5
+- The Elephant in the Brain, Kevin Simler and Robin Hanson, 4
+- Galileo's Middle Finger, Alice Dreger, 4.5
+- The Case against Education, Bryan Caplan, 4
 - Principles: Life and Work, Ray Dalio, 2.5
-- The Strange Order of Things, Antonio Damasio, 3
-- The Once and Future Liberal, Mark Lilla, 3.5
-- Living with Complexity, Donald A. Norman, 3.5
+- The Strange Order of Things, Antonio Damasio, 2.5
+- The Once and Future Liberal, Mark Lilla, 3
+- Living with Complexity, Donald A. Norman, 3
 
 ## January 2018
 
@@ -31,7 +32,7 @@
 
 - Payoff, Dan Ariely, 3
 - Against the Grain, James C. Scott, 3
-- The Origin of Wealth, Eric D. Beinhocker, 4.5
+- The Origin of Wealth, Eric D. Beinhocker, 4
 - The Dictator's Handbook, Bruce Bueno de Mesquita and Alaistar Smith, 2.5
 - Behavior: the Control of Perception, William T. Powers, 3
 - Predictably Irrational, Dan Ariely, 4
