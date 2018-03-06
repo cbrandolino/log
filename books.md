@@ -1,5 +1,9 @@
 # Books
 
+## March 2018
+
+- The Complacent Class, Tyler Cowen, 3.5
+
 ## February 2018
 
 - The Elephant in the Brain, Kevin Simler and Robin Hanson, 4
