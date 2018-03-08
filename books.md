@@ -2,11 +2,12 @@
 
 ## March 2018
 
+- Class, Paul Fussell, 3.5
 - The Complacent Class, Tyler Cowen, 3.5
 
 ## February 2018
 
-- The Elephant in the Brain, Kevin Simler and Robin Hanson, 4
+- The Elephant in the Brain, Kevin Simler and Robin Hanson, 3.5
 - Galileo's Middle Finger, Alice Dreger, 4.5
 - The Case against Education, Bryan Caplan, 4
 - Principles: Life and Work, Ray Dalio, 2.5
@@ -16,7 +17,7 @@
 
 ## January 2018
 
-- The Tell-tale Brain, V.S. Ramachandran, 4
+- The Tell-tale Brain, V.S. Ramachandran, 3.5
 - The Nature of Technology, W. Brian Arthur, 3.5
 - The Moral Animal, Robert Wright, 3
 - Philosophy in the Flesh, George Lakoff and Mark Johnson, 4
@@ -27,9 +28,9 @@
 ## December 2017
 
 - The Blank Slate, Steven Pinker, 3
-- Scarcity, Sendhil Mullainathan and Endar Shafir, 4
+- Scarcity, Sendhil Mullainathan and Endar Shafir, 3.5
 - Nudge, Richard H. Thaler and Cass R. Sunstein, 3.5
-- Misbehaving, Richard H. Thaler, 4
+- Misbehaving, Richard H. Thaler, 3.5
 - Inadequate Equilibria, Eliezer Yudkowsky, 2.5
 
 ## November 2017
