@@ -2,6 +2,7 @@
 
 ## March 2018
 
+- Behavior in Public Places, Erwing Goffman, 4
 - Class, Paul Fussell, 3.5
 - The Complacent Class, Tyler Cowen, 3.5
 
