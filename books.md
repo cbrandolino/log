@@ -2,7 +2,7 @@
 
 ## March 2018
 
-- Moral Tribes, Joshua Greene, 4
+- Moral Tribes, Joshua Greene, 3.5
 - Why Liberalism Failed, Patrick J. Deneen, 2.5
 - Behavior in Public Places, Erwing Goffman, 4
 - Class, Paul Fussell, 3.5
@@ -12,7 +12,7 @@
 
 - The Elephant in the Brain, Kevin Simler and Robin Hanson, 3.5
 - Galileo's Middle Finger, Alice Dreger, 4.5
-- The Case against Education, Bryan Caplan, 4
+- The Case against Education, Bryan Caplan, 3.5
 - Principles: Life and Work, Ray Dalio, 2.5
 - The Strange Order of Things, Antonio Damasio, 2.5
 - The Once and Future Liberal, Mark Lilla, 3
