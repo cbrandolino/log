@@ -1,13 +1,17 @@
 # Books
 
+## April 2018
+
+- Descartes' Error, Antonio Damasio, 4.5
+
 ## March 2018
 
 - Enlightenment Now, Steven Pinker, 2.5
 - Moral Tribes, Joshua Greene, 3.5
 - Why Liberalism Failed, Patrick J. Deneen, 2.5
-- Behavior in Public Places, Erwing Goffman, 4
+- Behavior in Public Places, Erwing Goffman, 3.5
 - Class, Paul Fussell, 3.5
-- The Complacent Class, Tyler Cowen, 3.5
+- The Complacent Class, Tyler Cowen, 3
 
 ## February 2018
 
@@ -24,7 +28,7 @@
 - The Tell-tale Brain, V.S. Ramachandran, 3.5
 - The Nature of Technology, W. Brian Arthur, 3.5
 - The Moral Animal, Robert Wright, 4
-- Philosophy in the Flesh, George Lakoff and Mark Johnson, 4
+- Philosophy in the Flesh, George Lakoff and Mark Johnson, 4.5
 - Freedom and its Betrayal, Isaiah Berlin, 3.5
 - Why Buddhism is True, Robert Wright, 4.5
 - Impro, Keith Johnstone, 4
