@@ -2,6 +2,7 @@
 
 ## April 2018
 
+- Decisions, Uncertainty, and the Brain, Paul W. Glimcher, 3.5
 - Descartes' Error, Antonio Damasio, 4.5
 
 ## March 2018
