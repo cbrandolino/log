@@ -2,6 +2,7 @@
 
 ## April 2018
 
+- Personal Knowledge, Michael Polanyi, 3.5
 - Red Plenty, Francis Spufford, 4
 - The True Believer, Eric Hoffer, 3
 - Decisions, Uncertainty, and the Brain, Paul W. Glimcher, 3.5
