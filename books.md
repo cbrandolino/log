@@ -2,6 +2,7 @@
 
 ## April 2018
 
+- The Myth of the Rational Voter, Bryan Caplan, 3
 - Personal Knowledge, Michael Polanyi, 3.5
 - Red Plenty, Francis Spufford, 4
 - The True Believer, Eric Hoffer, 3
