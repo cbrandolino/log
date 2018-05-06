@@ -2,6 +2,7 @@
 
 ## May 2018
 
+- Who's in charge, Michael S. Gazzaniga, 3.5
 - Why we cooperate, Michael Tomasello, 2.5
 
 ## April 2018
