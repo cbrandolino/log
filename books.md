@@ -2,6 +2,7 @@
 
 ## May 2018
 
+- Why Zebras don't get Ulcers, Robert M. Sapolsky, 4
 - Who's in charge, Michael S. Gazzaniga, 3.5
 - Why we cooperate, Michael Tomasello, 2.5
 
@@ -37,7 +38,7 @@
 
 - The Tell-tale Brain, V.S. Ramachandran, 3.5
 - The Nature of Technology, W. Brian Arthur, 3.5
-- The Moral Animal, Robert Wright, 4
+- The Moral Animal, Robert Wright, 4.5
 - Philosophy in the Flesh, George Lakoff and Mark Johnson, 4.5
 - Freedom and its Betrayal, Isaiah Berlin, 3.5
 - Why Buddhism is True, Robert Wright, 4.5
