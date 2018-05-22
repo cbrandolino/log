@@ -2,6 +2,7 @@
 
 ## May 2018
 
+- A Natural History of Human Morality, Michael Tomasello, 3
 - Against Empathy, Paul Bloom, 3
 - Why Zebras don't get Ulcers, Robert M. Sapolsky, 4
 - Who's in charge, Michael S. Gazzaniga, 3.5
