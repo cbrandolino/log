@@ -2,6 +2,7 @@
 
 ## May 2018
 
+- The Radical Fool of Capitalism, Christian Weizbacher, 2
 - Evil, Roy F. Baumeister, 3.5
 - A Natural History of Human Morality, Michael Tomasello, 3
 - Against Empathy, Paul Bloom, 3
