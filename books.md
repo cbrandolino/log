@@ -2,7 +2,8 @@
 
 ## May 2018
 
-- How Democracies Die, Steven Levitsky and Daniel Ziblatt, 3
+- Fads and Fallacies in the Name of Science, Martin Gardner, 3
+- How Democracies Die, Steven Levitsky and Daniel Ziblatt, 3.5
 - The Radical Fool of Capitalism, Christian Weizbacher, 2
 - Evil, Roy F. Baumeister, 3.5
 - A Natural History of Human Morality, Michael Tomasello, 3
