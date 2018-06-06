@@ -1,5 +1,9 @@
 # Books
 
+## June 2018
+
+- The Book of Why, Judea Pearl and Dana MacKenzie, 4.5
+
 ## May 2018
 
 - Fads and Fallacies in the Name of Science, Martin Gardner, 3
