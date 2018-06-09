@@ -2,7 +2,7 @@
 
 ## June 2018
 
-- Vamps and Tramos, Camille Paglia, 3
+- Vamps and Tramps, Camille Paglia, 3
 - The Book of Why, Judea Pearl and Dana MacKenzie, 4.5
 
 ## May 2018
