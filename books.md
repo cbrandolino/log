@@ -2,6 +2,7 @@
 
 ## June 2018
 
+- The City and The City (fiction), China Miéville, 3.5
 - Marriage, a History, Stephanie Coontz, 3.5
 - Vamps and Tramps, Camille Paglia, 3
 - The Book of Why, Judea Pearl and Dana MacKenzie, 4.5
