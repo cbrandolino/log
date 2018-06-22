@@ -2,6 +2,7 @@
 
 ## June 2018
 
+- Fun Home, Alison Bechdel *(graphic novel, memoir)*, 4
 - Stigma, Erving Goffman, 3.5
 - The City and The City *(fiction)*, China Miéville, 3
 - Marriage, a History, Stephanie Coontz, 3
