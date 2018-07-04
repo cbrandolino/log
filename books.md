@@ -1,5 +1,9 @@
 # Books
 
+## July 2018
+
+- Dreams must explain themselves, Ursula K. Le Guin, 3.5
+
 ## June 2018
 - Consciousness Explained, Daniel C. Dennett, 4
 - Fun Home, Alison Bechdel *(graphic novel, memoir)*, 3.5
