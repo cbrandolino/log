@@ -2,11 +2,12 @@
 
 ## July 2018
 
-- Dreams must explain themselves, Ursula K. Le Guin, 3.5
+- Story of your life and Others *(fiction)*, Ted Chiang, 4
+- Dreams must explain themselves, Ursula K. Le Guin, 3
 
 ## June 2018
 - Consciousness Explained, Daniel C. Dennett, 4
-- Fun Home, Alison Bechdel *(graphic novel, memoir)*, 3.5
+- Fun Home *(graphic novel, memoir)*, Alison Bechdel, 3.5
 - Stigma, Erving Goffman, 3.5
 - The City and The City *(fiction)*, China Miéville, 3
 - Marriage, a History, Stephanie Coontz, 3
