@@ -2,8 +2,9 @@
 
 ## July 2018
 
+- Laughter in Ancient Rome, Mary Beard, 2.5
 - Story of your life and Others *(fiction)*, Ted Chiang, 4
-- Dreams must explain themselves, Ursula K. Le Guin, 3
+- Dreams must explain themselves, Ursula K. Le Guin, 3.5
 
 ## June 2018
 - Consciousness Explained, Daniel C. Dennett, 4
