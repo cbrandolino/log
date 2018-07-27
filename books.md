@@ -2,6 +2,7 @@
 
 ## July 2018
 
+- The Second Machine Age, Erik Brynjolfsson and Andrew McAfee, 2
 - Crowds and Power, Elias Canetti, 4.5
 - Laughter in Ancient Rome, Mary Beard, 2.5
 - Story of your life and Others *(fiction)*, Ted Chiang, 3.5
