@@ -2,9 +2,10 @@
 
 ## July 2018
 
+- Crowds and Power, Elias Canetti, 4.5
 - Laughter in Ancient Rome, Mary Beard, 2.5
-- Story of your life and Others *(fiction)*, Ted Chiang, 4
-- Dreams must explain themselves, Ursula K. Le Guin, 3.5
+- Story of your life and Others *(fiction)*, Ted Chiang, 3.5
+- Dreams must explain themselves, Ursula K. Le Guin, 3
 
 ## June 2018
 - Consciousness Explained, Daniel C. Dennett, 4
@@ -60,7 +61,7 @@
 - The Tell-tale Brain, V.S. Ramachandran, 3.5
 - The Nature of Technology, W. Brian Arthur, 3.5
 - The Moral Animal, Robert Wright, 4.5
-- Philosophy in the Flesh, George Lakoff and Mark Johnson, 4.5
+- Philosophy in the Flesh, George Lakoff and Mark Johnson, 4
 - Freedom and its Betrayal, Isaiah Berlin, 3.5
 - Why Buddhism is True, Robert Wright, 4.5
 - Impro, Keith Johnstone, 4
