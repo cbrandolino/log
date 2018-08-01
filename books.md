@@ -1,5 +1,9 @@
 # Books
 
+## August 2018
+
+- The Gift of Fear, Gavin De Becker, 4.5
+
 ## July 2018
 
 - The Second Machine Age, Erik Brynjolfsson and Andrew McAfee, 2
