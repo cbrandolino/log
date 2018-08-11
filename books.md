@@ -2,7 +2,9 @@
 
 ## August 2018
 
-- The Gift of Fear, Gavin De Becker, 4.5
+- The Hedgehog and the Fox, Isaiah Berlin, 4
+- Picnic Comma Lightning, Laurence Scott, 3
+- The Gift of Fear, Gavin De Becker, 4
 
 ## July 2018
 
