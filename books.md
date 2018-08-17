@@ -2,6 +2,7 @@
 
 ## August 2018
 
+- The Future is History, Masha Gessen, 4.5
 - The Hedgehog and the Fox, Isaiah Berlin, 4
 - Picnic Comma Lightning, Laurence Scott, 3
 - The Gift of Fear, Gavin De Becker, 4
