@@ -2,6 +2,7 @@
 
 ## September 2018
 
+- 21 Lessons for the 21st Century, Yuval Noah Harari, 3.5
 - Conjectures and Refutations, Karl Popper, 4.5
 
 ## August 2018
