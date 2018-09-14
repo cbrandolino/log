@@ -2,6 +2,7 @@
 
 ## September 2018
 
+- The Coddling of the American Mind, Greg Lukianoff and Jonathan Haidt, 4
 - Think Again, Walter Sinnott-Armstrong, 3
 - The Meaning of Science, Tim Lewens, 2.5
 - 21 Lessons for the 21st Century, Yuval Noah Harari, 3.5
