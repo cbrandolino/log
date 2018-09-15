@@ -2,6 +2,7 @@
 
 ## September 2018
 
+- The Perils of Perception, Bobby Duffy, 3
 - The Coddling of the American Mind, Greg Lukianoff and Jonathan Haidt, 4
 - Think Again, Walter Sinnott-Armstrong, 3
 - The Meaning of Science, Tim Lewens, 2.5
