@@ -1,8 +1,12 @@
 # Books
 
+## October 2018
+
+- The Lies That Bind, Kwame Anthony Appiah, 3.5
+
 ## September 2018
 
-- Why we sleep, Matthew Walker, 3.0
+- Why we sleep, Matthew Walker, 2.5
 - The Spinoza Problem *(fiction)*, Irvin D. Yalom, 3.5
 - Norse Mythology, Neil Gaiman, 4
 - The Perils of Perception, Bobby Duffy, 2.5
