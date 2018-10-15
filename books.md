@@ -2,12 +2,13 @@
 
 ## October 2018
 
-- The Lies That Bind, Kwame Anthony Appiah, 3.5
+- Against Method, Paul Feyerabend, 3.5
+- The Lies That Bind, Kwame Anthony Appiah, 3
 
 ## September 2018
 
 - Why we sleep, Matthew Walker, 2.5
-- The Spinoza Problem *(fiction)*, Irvin D. Yalom, 3.5
+- The Spinoza Problem *(fiction)*, Irvin D. Yalom, 3
 - Norse Mythology, Neil Gaiman, 4
 - The Perils of Perception, Bobby Duffy, 2.5
 - The Coddling of the American Mind, Greg Lukianoff and Jonathan Haidt, 4
