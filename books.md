@@ -2,7 +2,7 @@
 
 ## October 2018
 
-- The Bell Jar *(fiction)*, Sylvia Plath, 4.5
+- The Bell Jar *(fiction)*, Sylvia Plath, 4
 - The Fifth Risk, Michael Lewis, 3.5
 - The Cost-Benefit Revolution, Cass R. Sunstein, 3
 - Against Method, Paul Feyerabend, 3.5
