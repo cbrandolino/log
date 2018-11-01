@@ -2,6 +2,7 @@
 
 ## October 2018
 
+- The Crooked Timber of Humanity, Isaiah Berlin, 4
 - The Bell Jar *(fiction)*, Sylvia Plath, 4
 - The Fifth Risk, Michael Lewis, 3.5
 - The Cost-Benefit Revolution, Cass R. Sunstein, 3
