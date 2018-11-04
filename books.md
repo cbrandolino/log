@@ -2,7 +2,7 @@
 
 ## November 2018
 
-- National Populism, Roger Eatwell and Matthew Goodwin, 3
+- National Populism, Roger Eatwell and Matthew Goodwin, 2.5
 
 ## October 2018
 
