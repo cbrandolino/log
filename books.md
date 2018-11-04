@@ -1,5 +1,9 @@
 # Books
 
+## November 2018
+
+- National Populism, Roger Eatwell and Matthew Goodwin, 3
+
 ## October 2018
 
 - The Crooked Timber of Humanity, Isaiah Berlin, 4
@@ -41,7 +45,7 @@
 - Consciousness Explained, Daniel C. Dennett, 4
 - Fun Home *(graphic novel, memoir)*, Alison Bechdel, 3.5
 - Stigma, Erving Goffman, 3.5
-- The City and The City *(fiction)*, China Miéville, 3
+- The City and The City *(fiction)*, China Miéville, 3.5
 - Marriage, a History, Stephanie Coontz, 3
 - Vamps and Tramps, Camille Paglia, 3
 - The Book of Why, Judea Pearl and Dana MacKenzie, 4.5
