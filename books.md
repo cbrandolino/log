@@ -2,6 +2,8 @@
 
 ## November 2018
 
+- Quiddities, VW Quine, 4
+- Identity, Francis Fukuyama, 4
 - National Populism, Roger Eatwell and Matthew Goodwin, 2.5
 
 ## October 2018
