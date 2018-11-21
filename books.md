@@ -2,6 +2,7 @@
 
 ## November 2018
 
+- Skin in the Game, Nassim Nicholas Taleb, 3.5
 - Quiddities, VW Quine, 4
 - Identity, Francis Fukuyama, 4
 - National Populism, Roger Eatwell and Matthew Goodwin, 2.5
