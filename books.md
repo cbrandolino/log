@@ -2,6 +2,7 @@
 
 ## November 2018
 
+- Serendipities, Umberto Eco, 3
 - Skin in the Game, Nassim Nicholas Taleb, 3.5
 - Quiddities, VW Quine, 4
 - Identity, Francis Fukuyama, 4
