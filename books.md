@@ -1,5 +1,9 @@
 # Books
 
+## December 2018
+
+- The Secret of Our Success, Joseph Henrich, 4.5
+
 ## November 2018
 
 - Serendipities, Umberto Eco, 3
