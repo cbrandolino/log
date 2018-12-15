@@ -2,6 +2,7 @@
 
 ## December 2018
 
+- Antifragile, Nassim Nicholas Taleb, 4
 - The Secret of Our Success, Joseph Henrich, 4.5
 
 ## November 2018
