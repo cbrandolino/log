@@ -2,6 +2,7 @@
 
 ## December 2018
 
+- Unpopular Essays, Bertrand Russell, 3.5
 - Antifragile, Nassim Nicholas Taleb, 4
 - The Secret of Our Success, Joseph Henrich, 4.5
 
