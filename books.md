@@ -1,5 +1,9 @@
 # Books
 
+## January 2019
+
+- The Way We Think, Gilles Fauconnier and Mark Turner, 3
+
 ## December 2018
 
 - Unpopular Essays, Bertrand Russell, 3.5
