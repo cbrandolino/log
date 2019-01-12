@@ -2,6 +2,7 @@
 
 ## January 2019
 
+- The Elementary Forms of Religious Life, Émile Durkheim, 3.5
 - The Way We Think, Gilles Fauconnier and Mark Turner, 3
 
 ## December 2018
