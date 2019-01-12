@@ -23,8 +23,8 @@
 
 - The Crooked Timber of Humanity, Isaiah Berlin, 4
 - The Bell Jar *(fiction)*, Sylvia Plath, 4
-- The Fifth Risk, Michael Lewis, 3.5
-- The Cost-Benefit Revolution, Cass R. Sunstein, 3
+- The Fifth Risk, Michael Lewis, 3
+- The Cost-Benefit Revolution, Cass R. Sunstein, 2.5
 - Against Method, Paul Feyerabend, 3.5
 - The Lies That Bind, Kwame Anthony Appiah, 3
 
