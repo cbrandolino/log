@@ -2,6 +2,7 @@
 
 ## January 2019
 
+- An End to Suffering, Pankaj Mishra, 4.5
 - Battling the Gods, Tim Whitmarsh, 3.5
 - The Elementary Forms of Religious Life, Émile Durkheim, 3.5
 - The Way We Think, Gilles Fauconnier and Mark Turner, 3
