@@ -2,7 +2,8 @@
 
 ## January 2019
 
-- An End to Suffering, Pankaj Mishra, 4.5
+- The Web of Belief, W. V. Quine and J. S. Ullian, 4.5
+- An End to Suffering, Pankaj Mishra, 4
 - Battling the Gods, Tim Whitmarsh, 3.5
 - The Elementary Forms of Religious Life, Émile Durkheim, 3.5
 - The Way We Think, Gilles Fauconnier and Mark Turner, 3
