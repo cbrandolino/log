@@ -1,5 +1,10 @@
 # Books
 
+## February 2019
+
+- Stubborn Attachments, Tyler Cowen, 3
+- Choke, Sian Beilock, 2
+
 ## January 2019
 
 - The Web of Belief, W. V. Quine and J. S. Ullian, 4.5
