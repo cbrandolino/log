@@ -2,7 +2,8 @@
 
 ## February 2019
 
-- Stubborn Attachments, Tyler Cowen, 3
+- From Zero to One, Peter Thiel, 4
+- Stubborn Attachments, Tyler Cowen, 2.5
 - Choke, Sian Beilock, 2
 
 ## January 2019
