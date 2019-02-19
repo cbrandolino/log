@@ -2,6 +2,7 @@
 
 ## February 2019
 
+- The Unfolding of Language, Guy Deutscher, 4.5
 - From Zero to One, Peter Thiel, 4
 - Stubborn Attachments, Tyler Cowen, 2.5
 - Choke, Sian Beilock, 2
