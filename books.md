@@ -2,6 +2,7 @@
 
 ## March 2019
 
+- Purity and Danger, Mary Douglas, 3
 - Time and Power, Christopher Clark, 2.5
 - Marriage and Morals, Bertrand Russell, 3
 - How to change your mind, Michael Pollan, 4.5
