@@ -2,6 +2,7 @@
 
 ## March 2019
 
+- Tribe, Sebastian Junger, 3
 - Purity and Danger, Mary Douglas, 3
 - Time and Power, Christopher Clark, 2.5
 - Marriage and Morals, Bertrand Russell, 3
