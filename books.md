@@ -2,6 +2,7 @@
 
 ## March 2019
 
+- Making Evil, Julia Shaw, 3.5
 - Tribe, Sebastian Junger, 3
 - Purity and Danger, Mary Douglas, 3
 - Time and Power, Christopher Clark, 2.5
