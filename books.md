@@ -3,7 +3,7 @@
 ## April 2019
 
 - Every Cradle is a Grave, Sarah Perry, 3.5
-- The Myths We Live By, Mary Midgley, 4
+- The Myths We Live By, Mary Midgley, 3.5
 - Nothing is true and anything is possible, Peter Pomerantsev, 3.5
 - The Mind is Flat, Nick Chater, 4.5
 
@@ -19,7 +19,7 @@
 
 ## February 2019
 
-- The Happiness Hypothesis, Jonathan Haidt, 3.5
+- The Happiness Hypothesis, Jonathan Haidt, 4
 - The Unfolding of Language, Guy Deutscher, 4.5
 - From Zero to One, Peter Thiel, 3.5
 - Stubborn Attachments, Tyler Cowen, 2.5
