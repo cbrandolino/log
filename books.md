@@ -1,8 +1,12 @@
 # Books
 
+## May 2019
+
+- Legal Systems Very Different from Ours, David Friedman, 4
+
 ## April 2019
 
-- Ryan Holiday, Conspiracy, 2.5
+- Conspiracy, Ryan Holiday, 2.5
 - The Book of Laughter and Forgetting *(fiction)*, Milan Kundera, 3
 - Every Cradle is a Grave, Sarah Perry, 3.5
 - The Myths We Live By, Mary Midgley, 3
