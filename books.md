@@ -2,16 +2,17 @@
 
 ## May 2019
 
+- Pale fire *(fiction)*, Vladimir Nabokov, 4
 - Legal Systems Very Different from Ours, David Friedman, 4
 
 ## April 2019
 
 - Conspiracy, Ryan Holiday, 2.5
 - The Book of Laughter and Forgetting *(fiction)*, Milan Kundera, 3
-- Every Cradle is a Grave, Sarah Perry, 3.5
+- Every Cradle is a Grave, Sarah Perry, 4
 - The Myths We Live By, Mary Midgley, 3
 - Nothing is true and anything is possible, Peter Pomerantsev, 3.5
-- The Mind is Flat, Nick Chater, 4.5
+- The Mind is Flat, Nick Chater, 4
 
 ## March 2019
 
