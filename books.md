@@ -2,6 +2,7 @@
 
 ## May 2019
 
+- Contested Will, James Shapiro, 3.5
 - Pale fire *(fiction)*, Vladimir Nabokov, 4
 - Legal Systems Very Different from Ours, David Friedman, 4
 
