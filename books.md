@@ -2,6 +2,7 @@
 
 ## May 2019
 
+- The Metaphisical Foundations of Modern Science, E. A. Burtt, 3.5
 - Stony the Road, Henry Louis Gates Jr., 3
 - Contested Will, James Shapiro, 3.5
 - Pale fire *(fiction)*, Vladimir Nabokov, 4
