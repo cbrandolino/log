@@ -1,5 +1,9 @@
 # Books
 
+## June 2019
+
+- The Paper Menagerie *(fiction)*, Ken Liu, 3.5
+
 ## May 2019
 
 - The Metaphisical Foundations of Modern Science, E. A. Burtt, 3.5
