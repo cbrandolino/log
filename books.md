@@ -2,6 +2,7 @@
 
 ## June 2019
 
+- Pure, Linda Kay Klein, 3.5
 - The Paper Menagerie *(fiction)*, Ken Liu, 3.5
 
 ## May 2019
