@@ -2,7 +2,8 @@
 
 ## June 2019
 
-- Pure, Linda Kay Klein, 3.5
+- How to read and why, Harold Bloom, 4
+- Pure, Linda Kay Klein, 3
 - The Paper Menagerie *(fiction)*, Ken Liu, 3.5
 
 ## May 2019
