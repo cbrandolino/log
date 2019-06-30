@@ -2,6 +2,7 @@
 
 ## June 2019
 
+- The Opium War, Julia Lovell, 3.5
 - How to read and why, Harold Bloom, 4
 - Pure, Linda Kay Klein, 3
 - The Paper Menagerie *(fiction)*, Ken Liu, 3.5
