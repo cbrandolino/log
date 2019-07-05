@@ -1,5 +1,9 @@
 # Books
 
+## July 2019
+
+- Range, David Epstein, 2.5
+
 ## June 2019
 
 - The Opium War, Julia Lovell, 3.5
