@@ -2,6 +2,7 @@
 
 ## July 2019
 
+- A Canticle for Leibowitz, Walter M. Miller Jr., 3
 - Range, David Epstein, 2.5
 
 ## June 2019
