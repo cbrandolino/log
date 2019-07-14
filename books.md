@@ -2,6 +2,7 @@
 
 ## July 2019
 
+- Exhalation *(fiction)*, Ted Chiang, 4
 - A Canticle for Leibowitz *(fiction)*, Walter M. Miller Jr., 3
 - Range, David Epstein, 2.5
 
@@ -9,8 +10,8 @@
 
 - The Opium War, Julia Lovell, 3.5
 - How to read and why, Harold Bloom, 4
-- Pure, Linda Kay Klein, 3
-- The Paper Menagerie *(fiction)*, Ken Liu, 3.5
+- Pure, Linda Kay Klein, 2.5
+- The Paper Menagerie *(fiction)*, Ken Liu, 3
 
 ## May 2019
 
