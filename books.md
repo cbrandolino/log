@@ -2,6 +2,7 @@
 
 ## July 2019
 
+- The Two Cultures, C.P. Snow, 4
 - Exhalation *(fiction)*, Ted Chiang, 4
 - A Canticle for Leibowitz *(fiction)*, Walter M. Miller Jr., 3
 - Range, David Epstein, 2.5
