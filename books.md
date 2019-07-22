@@ -2,6 +2,7 @@
 
 ## July 2019
 
+- Let's explore diabetes with owls *(memoir)*, David Sedaris, 3.5
 - The Two Cultures, C.P. Snow, 4
 - Exhalation *(fiction)*, Ted Chiang, 4
 - A Canticle for Leibowitz *(fiction)*, Walter M. Miller Jr., 3
@@ -16,6 +17,7 @@
 
 ## May 2019
 
+- Calypso *(memoir)*, David Sedaris, 4
 - The Metaphisical Foundations of Modern Science, E. A. Burtt, 3.5
 - Stony the Road, Henry Louis Gates Jr., 3
 - Contested Will, James Shapiro, 3.5
@@ -24,6 +26,7 @@
 
 ## April 2019
 
+- Naked *(memoir)*, David Sedaris, 3.5
 - Conspiracy, Ryan Holiday, 2.5
 - The Book of Laughter and Forgetting *(fiction)*, Milan Kundera, 3
 - Every Cradle is a Grave, Sarah Perry, 4
