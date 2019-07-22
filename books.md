@@ -2,7 +2,6 @@
 
 ## July 2019
 
-- Let's explore diabetes with owls *(memoir)*, David Sedaris, 3.5
 - The Two Cultures, C.P. Snow, 4
 - Exhalation *(fiction)*, Ted Chiang, 4
 - A Canticle for Leibowitz *(fiction)*, Walter M. Miller Jr., 3
@@ -10,6 +9,7 @@
 
 ## June 2019
 
+- Let's explore diabetes with owls *(memoir)*, David Sedaris, 3.5
 - The Opium War, Julia Lovell, 3.5
 - How to read and why, Harold Bloom, 4
 - Pure, Linda Kay Klein, 2.5
