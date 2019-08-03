@@ -2,6 +2,7 @@
 
 ## July 2019
 
+- Barrel fever *(memoir)*, David Sedaris, 3.5
 - Theft by finding *(diaries)*, David Sedaris, 3.5
 - The Two Cultures, C.P. Snow, 4
 - Exhalation *(fiction)*, Ted Chiang, 4
