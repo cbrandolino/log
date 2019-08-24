@@ -1,5 +1,9 @@
 # Books
 
+## August 2019
+
+- The Book of J, Harold Bloom and David Rosenberg, 3.5
+
 ## July 2019
 
 - Dress your family in corduroy and denim *(memoir)*, David Sedaris, 3.5
