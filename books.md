@@ -2,6 +2,7 @@
 
 ## August 2019
 
+- Days of Rage, Bryan Burrough, 3.5
 - The Book of J, Harold Bloom and David Rosenberg, 3
 
 ## July 2019
