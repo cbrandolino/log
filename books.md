@@ -2,6 +2,7 @@
 
 ## September 2019
 
+- The Goodness Paradox, Richard Wrangham, 4
 - Never Enough, Judith Grisel, 3
 - The Story of Pain, Joanna Bourke, 2.5
 
@@ -140,7 +141,7 @@
 - Evil, Roy F. Baumeister, 3.5
 - A Natural History of Human Morality, Michael Tomasello, 3
 - Against Empathy, Paul Bloom, 3
-- Why Zebras don't get Ulcers, Robert M. Sapolsky, 4
+- Why Zebras don't get Ulcers, Robert M. Sapolsky, 4.5
 - Who's in charge, Michael S. Gazzaniga, 3.5
 - Why we cooperate, Michael Tomasello, 2.5
 
