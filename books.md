@@ -1,5 +1,9 @@
 # Books
 
+## October 2019
+
+- A History of God, Karen Armstrong, 3.5
+
 ## September 2019
 
 - The Goodness Paradox, Richard Wrangham, 4
