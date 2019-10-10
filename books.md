@@ -2,6 +2,7 @@
 
 ## October 2019
 
+- The Face of Battle, John Keegan, 3
 - A History of God, Karen Armstrong, 3.5
 
 ## September 2019
