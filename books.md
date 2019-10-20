@@ -2,6 +2,7 @@
 
 ## October 2019
 
+- Artificial Intelligence, Melanie Mitchell, 4
 - How to be a Dictator, Frank Dikötter, 2.5
 - Hidden Order, John Holland, 3.5
 - The Face of Battle, John Keegan, 3
