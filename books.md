@@ -2,6 +2,7 @@
 
 ## October 2019
 
+- Sync, Steven Strogatz, 2.5
 - Feet of Clay, Anthony Storr, 4
 - Artificial Intelligence, Melanie Mitchell, 4
 - How to be a Dictator, Frank Dikötter, 2.5
