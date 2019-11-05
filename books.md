@@ -1,5 +1,9 @@
 # Books
 
+## November 2019
+
+- The Art of Statistics, David Spiegelhalte, 3.5
+
 ## October 2019
 
 - Sync, Steven Strogatz, 2.5
