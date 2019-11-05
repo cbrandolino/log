@@ -2,7 +2,7 @@
 
 ## November 2019
 
-- The Art of Statistics, David Spiegelhalte, 3.5
+- The Art of Statistics, David Spiegelhalter, 3.5
 
 ## October 2019
 
