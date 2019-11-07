@@ -2,6 +2,7 @@
 
 ## November 2019
 
+- Keeping Together in Time, William H. McNeill, 3
 - The Art of Statistics, David Spiegelhalter, 3.5
 
 ## October 2019
