@@ -2,6 +2,7 @@
 
 ## November 2019
 
+- Human Compatible, Stuart Russell, 3.5
 - Keeping Together in Time, William H. McNeill, 3
 - The Art of Statistics, David Spiegelhalter, 3.5
 
