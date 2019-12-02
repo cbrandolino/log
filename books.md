@@ -1,5 +1,9 @@
 # Books
 
+## December 2019
+
+- This View of Life, David Sloan Wilson, 3
+
 ## November 2019
 
 - Civilization, Niall Ferguson, 3
