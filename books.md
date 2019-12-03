@@ -2,7 +2,7 @@
 
 ## December 2019
 
-- Bright Lights, Big City *(fiction)*, Jay McInerney, 4
+- Bright Lights, Big City *(fiction)*, Jay McInerney, 3.5
 - This View of Life, David Sloan Wilson, 3
 
 ## November 2019
