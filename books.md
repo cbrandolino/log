@@ -2,6 +2,7 @@
 
 ## December 2019
 
+- Boomerang, Michael Lewis, 3.5
 - Bright Lights, Big City *(fiction)*, Jay McInerney, 3.5
 - This View of Life, David Sloan Wilson, 3
 
