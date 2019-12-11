@@ -2,6 +2,7 @@
 
 ## December 2019
 
+- The Emperor's New Mind, Roger Penrose, 3
 - Boomerang, Michael Lewis, 3.5
 - Bright Lights, Big City *(fiction)*, Jay McInerney, 3.5
 - This View of Life, David Sloan Wilson, 3
