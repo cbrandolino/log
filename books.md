@@ -2,6 +2,7 @@
 
 ## December 2019
 
+- Germs, Guns and Steel, Jared Diamond, 3.5
 - The Emperor's New Mind, Roger Penrose, 3
 - Boomerang, Michael Lewis, 3.5
 - Bright Lights, Big City *(fiction)*, Jay McInerney, 3.5
