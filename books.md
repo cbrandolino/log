@@ -1,5 +1,9 @@
 # Books
 
+## January 2020
+
+- Prisoner's Dilemma, William Poundstone, 3
+
 ## December 2019
 
 - Germs, Guns and Steel, Jared Diamond, 3.5
