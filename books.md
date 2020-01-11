@@ -2,6 +2,7 @@
 
 ## January 2020
 
+- Subliminal, Leonard Mlodinow, 3.5
 - Prisoner's Dilemma, William Poundstone, 3
 
 ## December 2019
