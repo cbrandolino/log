@@ -2,6 +2,7 @@
 
 ## January 2020
 
+- The Case against Reality, Donald D. Hoffman, 3
 - The Evolution of Cooperation, Robert Axelrod, 4.5
 - Subliminal, Leonard Mlodinow, 3.5
 - Prisoner's Dilemma, William Poundstone, 3
