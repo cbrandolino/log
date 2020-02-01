@@ -1,5 +1,9 @@
 # Books
 
+## February 2020
+
+- The Politics of Faith and the Politics of Scepticism, Michael Oakeshott, 3
+
 ## January 2020
 
 - High Weirdness, Erik Davis, 3.5
