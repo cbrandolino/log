@@ -2,7 +2,8 @@
 
 ## February 2020
 
-- The Politics of Faith and the Politics of Scepticism, Michael Oakeshott, 3
+- Provocations, Camille Paglia, 3
+- The Politics of Faith and the Politics of Scepticism, Michael Oakeshott, 2.5
 
 ## January 2020
 
