@@ -2,7 +2,8 @@
 
 ## February 2020
 
-- Caffeine, Michael Pollan, 3
+- Nonzero, Robin Wright, 4
+- Caffeine, Michael Pollan, 2.5
 - Provocations, Camille Paglia, 3
 - The Politics of Faith and the Politics of Scepticism, Michael Oakeshott, 2.5
 
