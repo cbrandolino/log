@@ -2,9 +2,10 @@
 
 ## March 2020
 
+- This is not propaganda, Peter Pomerantsev, 4
 - Happy City, Charles Montgomery, 3
 - What is life?, Erwin Schrödinger, 4
-- The Order of Time, Carlo Rovelli, 3.5
+- The Order of Time, Carlo Rovelli, 3
 
 ## February 2020
 
