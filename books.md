@@ -2,7 +2,8 @@
 
 ## April 2021
 
-- What makes Sammy run *(fiction)*, Budd Schulberg, 4
+- Oppression and Liberty, Simone Weil, 3.5
+- What makes Sammy run *(fiction)*, Budd Schulberg, 3.5
 - The Collapse of Complex Societies, Joseph A. Tainter, 4.5
 
 ## March 2020
@@ -39,7 +40,7 @@
 
 - Civilization, Niall Ferguson, 3
 - Human Compatible, Stuart Russell, 3.5
-- Keeping Together in Time, William H. McNeill, 3
+- Keeping Together in Time, William H. McNeill, 3.5
 - The Art of Statistics, David Spiegelhalter, 3.5
 
 ## October 2019
@@ -56,7 +57,7 @@
 
 - The Goodness Paradox, Richard Wrangham, 4
 - Never Enough, Judith Grisel, 3
-- The Story of Pain, Joanna Bourke, 2.5
+- The Story of Pain, Joanna Bourke, 2
 
 ## August 2019
 
