@@ -1,5 +1,7 @@
 # Books
 
+- Dune *(fiction)*, Frank Herbert, 4
+
 ## April 2020
 
 - Oppression and Liberty, Simone Weil, 3.5
