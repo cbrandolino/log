@@ -2,6 +2,7 @@
 
 ## May 2020
 
+- The Arsenic Century, James C. Whorton, 3
 - Dune *(fiction)*, Frank Herbert, 4
 
 ## April 2020
