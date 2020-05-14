@@ -2,6 +2,7 @@
 
 ## May 2020
 
+- Dune Messiah *(fiction)*, Frank Herbert, 3.5
 - The Arsenic Century, James C. Whorton, 3
 - Dune *(fiction)*, Frank Herbert, 4
 
@@ -247,7 +248,7 @@
 - Scarcity, Sendhil Mullainathan and Endar Shafir, 3.5
 - Nudge, Richard H. Thaler and Cass R. Sunstein, 3.5
 - Misbehaving, Richard H. Thaler, 3.5
-- Inadequate Equilibria, Eliezer Yudkowsky, 2.5
+- Inadequate Equilibria, Eliezer Yudkowsky, 3.5
 
 ## November 2017
 
