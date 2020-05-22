@@ -2,7 +2,8 @@
 
 ## May 2020
 
-- Dune Messiah *(fiction)*, Frank Herbert, 3.5
+- Exactly, Simon Winchester, 3
+- Dune Messiah *(fiction)*, Frank Herbert, 3
 - The Arsenic Century, James C. Whorton, 3
 - Dune *(fiction)*, Frank Herbert, 4
 
