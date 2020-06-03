@@ -1,5 +1,9 @@
 # Books
 
+## June 2020
+
+- The World in a Grain, Vince Beiser, 3.5
+
 ## May 2020
 
 - Exactly, Simon Winchester, 3
