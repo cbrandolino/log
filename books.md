@@ -2,6 +2,7 @@
 
 ## June 2020
 
+- Everything and More, David Foster Wallace, 4
 - The Lever of Riches, Joel Mokyr, 3.5
 - The World in a Grain, Vince Beiser, 3.5
 
