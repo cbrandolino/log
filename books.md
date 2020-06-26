@@ -2,7 +2,7 @@
 
 ## June 2020
 
-- The Kingdom of This World *(fiction)*, Alejo Carpentier, 4
+- The Kingdom of this World *(fiction)*, Alejo Carpentier, 4
 - Everything and More, David Foster Wallace, 3.5
 - The Lever of Riches, Joel Mokyr, 3.5
 - The World in a Grain, Vince Beiser, 3.5
