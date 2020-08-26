@@ -1,5 +1,9 @@
 # Books
 
+## August 2020
+
+- The Origin of Consciousness in the Breakdown of the Bicameral Mind, Julian Jaynes, 4
+
 ## June 2020
 
 - The Kingdom of this World *(fiction)*, Alejo Carpentier, 4
