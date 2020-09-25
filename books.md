@@ -1,5 +1,9 @@
 # Books
 
+## September 2020
+
+- Agency, William Gibson, 4
+
 ## August 2020
 
 - The Origin of Consciousness in the Breakdown of the Bicameral Mind, Julian Jaynes, 4
