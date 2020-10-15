@@ -1,5 +1,9 @@
 # Books
 
+## October 2020
+
+- The Trouble with Testosterone, Robert M. Sapolsky, 3.5
+
 ## September 2020
 
 - Agency, William Gibson, 4
