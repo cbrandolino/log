@@ -2,11 +2,12 @@
 
 ## October 2020
 
-- The Trouble with Testosterone, Robert M. Sapolsky, 3.5
+- Imagined Communities, Benedict Anderson, 3.5
+- The Trouble with Testosterone, Robert M. Sapolsky, 3
 
 ## September 2020
 
-- Agency, William Gibson, 4
+- Agency, William Gibson, 3.5
 
 ## August 2020
 
@@ -15,7 +16,7 @@
 ## June 2020
 
 - The Kingdom of this World *(fiction)*, Alejo Carpentier, 4
-- Everything and More, David Foster Wallace, 3.5
+- Everything and More, David Foster Wallace, 3
 - The Lever of Riches, Joel Mokyr, 3.5
 - The World in a Grain, Vince Beiser, 3.5
 
