@@ -1,5 +1,9 @@
 # Books
 
+## November 2020
+
+- The Ruin of J. Robert Oppenheimer, Priscilla J. McMillan, 4
+
 ## October 2020
 
 - Imagined Communities, Benedict Anderson, 3.5
