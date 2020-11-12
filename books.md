@@ -2,6 +2,7 @@
 
 ## November 2020
 
+- The Precipice, Toby Ord, 4
 - The Ruin of J. Robert Oppenheimer, Priscilla J. McMillan, 4
 
 ## October 2020
