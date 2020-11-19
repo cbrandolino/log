@@ -2,6 +2,7 @@
 
 ## November 2020
 
+- The Surrender Experiment, Michael A. Singer, 3
 - 80,000 Hours, Benjamin Todd, 3.5
 - The Precipice, Toby Ord, 4
 - The Ruin of J. Robert Oppenheimer, Priscilla J. McMillan, 4
