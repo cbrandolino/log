@@ -1,5 +1,9 @@
 # Books
 
+## December 2020
+
+- Only Yesterday, Frederick Lewis Allen, 3.5
+
 ## November 2020
 
 - Bad Blood, John Carreyrou, 3.5
