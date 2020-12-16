@@ -2,7 +2,7 @@
 
 ## December 2020
 
-- Oval, Elvia Wilk, 2
+- Oval *(fiction)*, Elvia Wilk, 2
 - Only Yesterday, Frederick Lewis Allen, 3.5
 
 ## November 2020
