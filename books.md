@@ -1,5 +1,9 @@
 # Books
 
+## January 2021
+
+- The Cult of Smart, Fredrik deBoer, 3
+
 ## December 2020
 
 - Oval *(fiction)*, Elvia Wilk, 2
@@ -8,7 +12,7 @@
 ## November 2020
 
 - Bad Blood, John Carreyrou, 3.5
-- The Surrender Experiment, Michael A. Singer, 3
+- The Surrender Experiment, Michael A. Singer, 3.5
 - 80,000 Hours, Benjamin Todd, 3.5
 - The Precipice, Toby Ord, 4
 - The Ruin of J. Robert Oppenheimer, Priscilla J. McMillan, 4
