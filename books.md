@@ -1,5 +1,9 @@
 # Books
 
+## Feabruary 2021
+
+- The Pursuit of Oblivion, Richard Davenport-Hines, 4.5
+
 ## January 2021
 
 - The Cult of Smart, Fredrik deBoer, 3
