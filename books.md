@@ -6,8 +6,8 @@
 
 ## February 2021
 
-- The Omnivore's Dilemma, Michael Pollan, 4.5
-- The Pursuit of Oblivion, Richard Davenport-Hines, 4
+- The Omnivore's Dilemma, Michael Pollan, 4
+- The Pursuit of Oblivion, Richard Davenport-Hines, 3.5
 
 ## January 2021
 
