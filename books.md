@@ -2,6 +2,7 @@
 
 ## March 2021
 
+- Nihilism and Technology, Nolen Gertz, 2
 - Entangled Life, Merlin Sheldrake, 3.5
 
 ## February 2021
@@ -272,8 +273,8 @@
 ## February 2018
 
 - The Elephant in the Brain, Kevin Simler and Robin Hanson, 3.5
-- Galileo's Middle Finger, Alice Dreger, 4.5
-- The Case against Education, Bryan Caplan, 3.5
+- Galileo's Middle Finger, Alice Dreger, 4
+- The Case against Education, Bryan Caplan, 4.5
 - Principles: Life and Work, Ray Dalio, 2.5
 - The Strange Order of Things, Antonio Damasio, 3
 - The Once and Future Liberal, Mark Lilla, 3
