@@ -2,7 +2,7 @@
 
 ## March 2021
 
-- Nihilism and Technology, Nolen Gertz, 2
+- Nihilism and Technology, Nolen Gertz, 2.5
 - Entangled Life, Merlin Sheldrake, 3.5
 
 ## February 2021
