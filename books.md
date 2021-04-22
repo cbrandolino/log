@@ -1,14 +1,17 @@
 # Books
 
+- The Revolt of the Public, Martin Gurri, 4
+
+
 ## March 2021
 
-- Flow, Mihaly Csikszentmihalyi, 4
+- Flow, Mihaly Csikszentmihalyi, 3.5
 - Nihilism and Technology, Nolen Gertz, 2.5
-- Entangled Life, Merlin Sheldrake, 3.5
+- Entangled Life, Merlin Sheldrake, 3
 
 ## February 2021
 
-- The Omnivore's Dilemma, Michael Pollan, 4
+- The Omnivore's Dilemma, Michael Pollan, 4.5
 - The Pursuit of Oblivion, Richard Davenport-Hines, 3.5
 
 ## January 2021
@@ -31,7 +34,7 @@
 ## October 2020
 
 - Imagined Communities, Benedict Anderson, 3.5
-- The Trouble with Testosterone, Robert M. Sapolsky, 3
+- The Trouble with Testosterone, Robert M. Sapolsky, 3.5
 
 ## September 2020
 
