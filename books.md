@@ -2,7 +2,7 @@
 
 ## May 2021
 
-- The Dispossessed *(fiction)*, Ursula K. Le Guin, 4
+- The Dispossessed *(fiction)*, Ursula K. Le Guin, 3.5
 
 ## April 2021
 
@@ -12,7 +12,7 @@
 ## March 2021
 
 - Flow, Mihaly Csikszentmihalyi, 3.5
-- Nihilism and Technology, Nolen Gertz, 2.5
+- Nihilism and Technology, Nolen Gertz, 2
 - Entangled Life, Merlin Sheldrake, 3
 
 ## February 2021
