@@ -2,6 +2,7 @@
 
 ## May 2021
 
+- Little Eyes, Samanta Schweblin, 4
 - Conflict is not Abuse, Sarah Schulman, 3
 - The Dispossessed *(fiction)*, Ursula K. Le Guin, 3.5
 
