@@ -2,7 +2,8 @@
 
 ## May 2021
 
-- Little Eyes *(fiction)*, Samanta Schweblin, 3.5
+- Notes on a Scandal, Zoë Heller, 4
+- Little Eyes *(fiction)*, Samanta Schweblin, 3
 - Conflict is not Abuse, Sarah Schulman, 3
 - The Dispossessed *(fiction)*, Ursula K. Le Guin, 3.5
 
