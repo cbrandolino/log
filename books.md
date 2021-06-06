@@ -1,5 +1,9 @@
 # Books
 
+## June 2021
+
+- The Ministry for the Future, Kim Stanley Robinson, 3.5
+
 ## May 2021
 
 - Notes on a Scandal, Zoë Heller, 4
