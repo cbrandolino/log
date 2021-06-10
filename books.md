@@ -2,7 +2,8 @@
 
 ## June 2021
 
-- The Ministry for the Future, Kim Stanley Robinson, 3.5
+- When Profecy Fails, Leon Festinger, Henry W. Riecken and Stanley Schachter, 4.5
+- The Ministry for the Future *(fiction)*, Kim Stanley Robinson, 3.5
 
 ## May 2021
 
