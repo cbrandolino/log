@@ -1,5 +1,9 @@
 # Books
 
+## August 2021
+
+- Karl Marx, Isaiah Berlin, 4
+
 ## June 2021
 
 - When Profecy Fails, Leon Festinger, Henry W. Riecken and Stanley Schachter, 4.5
