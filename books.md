@@ -2,6 +2,8 @@
 
 ## August 2021
 
+- Sex and Rockets, John Carter, 2.5
+- The Premonition, Michael Lewis, 3.5
 - Karl Marx, Isaiah Berlin, 4
 
 ## June 2021
