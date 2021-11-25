@@ -6,7 +6,7 @@
 
 ## October 2021
 
-- The Fran Leibowitz Reader, Fran Leibowitz, 3.5
+- The Fran Leibowitz Reader, Fran Leibowitz, 3
 - A Carnival of Snackery *(memoir)*, David Sedaris, 4
 
 ## September 2021
