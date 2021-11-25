@@ -1,8 +1,17 @@
 # Books
 
+## November 2021
+
+- The Last Days of Stalin, Joshua Rubenstein, 4
+
+## October 2021
+
+- The Fran Leibowitz Reader, Fran Leibowitz, 3.5
+- A Carnival of Snackery *(memoir)*, David Sedaris, 4
+
 ## September 2021
 
-- Art Sex Music, Cosey Fanni Tutti, 4
+- Art Sex Music *(memoir)*, Cosey Fanni Tutti, 4
 
 ## August 2021
 
