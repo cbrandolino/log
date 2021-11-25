@@ -3,6 +3,7 @@
 ## November 2021
 
 - The Last Days of Stalin, Joshua Rubenstein, 4
+- Dishonesty is the second-best Policy, David Mitchell, 3.5
 
 ## October 2021
 
