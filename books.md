@@ -3,12 +3,13 @@
 ## November 2021
 
 - The Last Days of Stalin, Joshua Rubenstein, 4
-- Dishonesty is the second-best Policy, David Mitchell, 3.5
+- Dishonesty is the second-best Policy, David Mitchell, 3
 
 ## October 2021
 
+- Europe's Inner Demons, Norman Cohn, 4
 - The Fran Leibowitz Reader, Fran Leibowitz, 3
-- A Carnival of Snackery *(memoir)*, David Sedaris, 4
+- A Carnival of Snackery *(memoir)*, David Sedaris, 3.5
 
 ## September 2021
 
