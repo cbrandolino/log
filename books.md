@@ -1,5 +1,9 @@
 # Books
 
+## December 2021
+
+- Harlots Whores and Hackabouts, Kate Lister, 3
+
 ## November 2021
 
 - The Last Days of Stalin, Joshua Rubenstein, 4
