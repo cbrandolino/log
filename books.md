@@ -2,6 +2,7 @@
 
 ## December 2021
 
+- Wanting, Luke Burgis, 3.5
 - Harlots Whores and Hackabouts, Kate Lister, 3
 
 ## November 2021
