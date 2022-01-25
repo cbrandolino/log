@@ -1,8 +1,12 @@
 # Books
 
+## January 2022
+
+- The Every, Dave Eggers, 3.5
+
 ## December 2021
 
-- Wanting, Luke Burgis, 3.5
+- Wanting, Luke Burgis, 4
 - Harlots Whores and Hackabouts, Kate Lister, 3
 
 ## November 2021
