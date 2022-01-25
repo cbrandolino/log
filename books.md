@@ -2,7 +2,7 @@
 
 ## January 2022
 
-- The Every, Dave Eggers, 3.5
+- The Every *(fiction)*, Dave Eggers, 3.5
 
 ## December 2021
 
