@@ -2,7 +2,7 @@
 
 ## January 2022
 
-- Woke Racism, John McWhorter, 4
+- Woke Racism, John McWhorter, 3.5
 - The Every *(fiction)*, Dave Eggers, 3
 
 ## December 2021
@@ -334,17 +334,17 @@
 - The Tell-tale Brain, V.S. Ramachandran, 3.5
 - The Nature of Technology, W. Brian Arthur, 3.5
 - The Moral Animal, Robert Wright, 4.5
-- Philosophy in the Flesh, George Lakoff and Mark Johnson, 4
+- Philosophy in the Flesh, George Lakoff and Mark Johnson, 3
 - Freedom and its Betrayal, Isaiah Berlin, 3.5
 - Why Buddhism is True, Robert Wright, 4.5
 - Impro, Keith Johnstone, 4
 
 ## December 2017
 
-- The Blank Slate, Steven Pinker, 3
+- The Blank Slate, Steven Pinker, 3.5
 - Scarcity, Sendhil Mullainathan and Endar Shafir, 3.5
-- Nudge, Richard H. Thaler and Cass R. Sunstein, 3.5
-- Misbehaving, Richard H. Thaler, 3.5
+- Nudge, Richard H. Thaler and Cass R. Sunstein, 3
+- Misbehaving, Richard H. Thaler, 3
 - Inadequate Equilibria, Eliezer Yudkowsky, 3.5
 
 ## November 2017
