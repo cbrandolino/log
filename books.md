@@ -2,6 +2,7 @@
 
 ## January 2022
 
+- The Sum of Small Things, Elizabeth Currid-Halkett, 2.5
 - Woke Racism, John McWhorter, 3.5
 - The Every *(fiction)*, Dave Eggers, 3
 
@@ -13,7 +14,7 @@
 ## November 2021
 
 - The Last Days of Stalin, Joshua Rubenstein, 4
-- Dishonesty is the second-best Policy, David Mitchell, 3
+- Dishonesty is the second-best Policy, David Mitchell, 2.5
 
 ## October 2021
 
