@@ -354,8 +354,8 @@
 - Against the Grain, James C. Scott, 3
 - The Origin of Wealth, Eric D. Beinhocker, 4
 - The Dictator's Handbook, Bruce Bueno de Mesquita and Alaistar Smith, 2.5
-- Behavior: the Control of Perception, William T. Powers, 3
-- Predictably Irrational, Dan Ariely, 4
+- Behavior: the Control of Perception, William T. Powers, 3.5
+- Predictably Irrational, Dan Ariely, 3
 - Endless Forms Most Beautiful, Sean B. Carroll, 3.5
 
 ## October 2017
@@ -364,7 +364,7 @@
 - The Stuff of Thought, Steven Pinker, 4
 - Connectography, Parag Khanna, 3.5
 - Design in Nature, Adrian Bejan, 1.5
-- Forbidden Knowledge, Roger Shattuck, 3
+- Forbidden Knowledge, Roger Shattuck, 3.5
 
 ## September 2017
 
