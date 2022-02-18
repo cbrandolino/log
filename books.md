@@ -2,8 +2,9 @@
 
 ## January 2022
 
+- Scout Mindset, Julia Galef, 3.5
 - The Sum of Small Things, Elizabeth Currid-Halkett, 2.5
-- Woke Racism, John McWhorter, 3.5
+- Woke Racism, John McWhorter, 3
 - The Every *(fiction)*, Dave Eggers, 3
 
 ## December 2021
