@@ -1,5 +1,9 @@
 # Books
 
+## March 2022
+
+- Cultish, Amanda Montell, 2
+
 ## January 2022
 
 - Scout Mindset, Julia Galef, 3.5
