@@ -1,5 +1,9 @@
 # Books
 
+## April 2022
+
+- Foreskin's Lament *(memoir)*, Shalom Auslander, 3.5
+
 ## March 2022
 
 - Cultish, Amanda Montell, 2
