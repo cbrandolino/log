@@ -2,6 +2,7 @@
 
 ## April 2022
 
+- The Golden Ass *(fiction)*, Apuleius (tr. Robert Graves), 4.5
 - Foreskin's Lament *(memoir)*, Shalom Auslander, 3.5
 
 ## March 2022
