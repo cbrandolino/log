@@ -1,5 +1,9 @@
 # Books
 
+## May 2022
+
+- The Weird and the Eerie, Mark Fisher, 4
+
 ## April 2022
 
 - Mother for Dinner *(fiction)*, Shalom Auslander, 4
