@@ -4,7 +4,8 @@ Started 8 May 2022
 
 ## June 2022
 
-- Buzzard, 2012, Joel Potrykus, 3
+- Loro,  2018, Paolo Sorrentino, 3.5
+- Ape, 2012, Joel Potrykus, 3
 
 ## May 2022
 
