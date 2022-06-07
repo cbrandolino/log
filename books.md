@@ -2,6 +2,7 @@
 
 ## May 2022
 
+- Hope: A Tragedy *(fiction)*, Shalom Auslander, 4
 - The Weird and the Eerie, Mark Fisher, 4
 
 ## April 2022
