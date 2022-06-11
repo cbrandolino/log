@@ -1,5 +1,9 @@
 # Books
 
+## June 2022
+
+- Happy-Go-Lucky *(memoir)*, David Sedaris, 3
+
 ## May 2022
 
 - Hope: A Tragedy *(fiction)*, Shalom Auslander, 4
@@ -25,7 +29,7 @@
 ## December 2021
 
 - Wanting, Luke Burgis, 4
-- Harlots Whores and Hackabouts, Kate Lister, 3
+- Harlots Whores and Hackabouts, Kate Lister, 2.5
 
 ## November 2021
 
