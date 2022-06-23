@@ -4,6 +4,7 @@ Started 8 May 2022
 
 ## June 2022
 
+- Blithe Spirit, 1945, David Lean, 4, 💍👻👯‍♀️😰
 - Loro,  2018, Paolo Sorrentino, 3.5
 - Ape, 2012, Joel Potrykus, 3
 
