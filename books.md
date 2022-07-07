@@ -1,7 +1,13 @@
 # Books
 
+##
+
+- God and Golem, Inc., Norbert Wiener, 4
+- My Life as a Man, Philip Roth, 4.5
+
 ## June 2022
 
+- Acts of Worship *(fiction)*, Mishima Yukio, 4
 - Happy-Go-Lucky *(memoir)*, David Sedaris, 3
 
 ## May 2022
