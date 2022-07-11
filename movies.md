@@ -2,6 +2,11 @@
 
 Started 8 May 2022
 
+## July 2022
+
+- The Very Private Work of Sister K, Johan Liedgren, 2016, 4
+- Blood Simple, Joel and Ethan Coen, 1984, 3.5
+
 ## June 2022
 
 - Blithe Spirit, 1945, David Lean, 4, 💍👻👯‍♀️😰
