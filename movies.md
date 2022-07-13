@@ -4,8 +4,8 @@ Started 8 May 2022
 
 ## July 2022
 
-- Bound, Larry and Andy Wachowski, 1996, 3.5, ✂️💰🪢👩🏻‍❤️‍💋‍👩🏽
-- Amarcord, Federico Fellini, 1973, 4.5
+- Bound, Larry and Andy Wachowski, 1996, 3.5, ✂️💰🪢💥👩🏻‍❤️‍💋‍👩🏽
+- Amarcord, Federico Fellini, 1973, 4.5, 
 - The Very Private Work of Sister K, Johan Liedgren, 2016, 4
 - Blood Simple, Joel and Ethan Coen, 1984, 3.5
 
