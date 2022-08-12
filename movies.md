@@ -2,6 +2,10 @@
 
 Started 8 May 2022
 
+## August 2022
+
+- Kajillionaire, Miranda July, 2022, 4, 👨‍👩‍👧😬➡️💃🏼🥞👩🏻‍🍼👩🏼‍❤️‍💋‍👩🏽
+
 ## July 2022
 
 - Teorema, Pier Paolo Pasolini, 1968, 4
