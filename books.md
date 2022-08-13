@@ -1,14 +1,18 @@
 # Books
 
+## August 2022
+
+- Roland Barthes *(memoir?)*, Roland Barthes, 4
+
 ## July 2022
 
 - Piranesi, Susanna Clarke, 4
-- God and Golem, Inc., Norbert Wiener, 4
+- God and Golem, Inc., Norbert Wiener, 3.5
 - My Life as a Man, Philip Roth, 4.5
 
 ## June 2022
 
-- Acts of Worship *(fiction)*, Mishima Yukio, 4
+- Acts of Worship *(fiction)*, Mishima Yukio, 3.5
 - Happy-Go-Lucky *(memoir)*, David Sedaris, 3
 
 ## May 2022
