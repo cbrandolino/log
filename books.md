@@ -2,6 +2,7 @@
 
 ## August 2022
 
+- The Machiavellians, James Burnham, 3.5
 - Roland Barthes *(memoir?)*, Roland Barthes, 4
 
 ## July 2022
