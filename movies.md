@@ -4,19 +4,20 @@ Started 8 May 2022
 
 ## September 2022
 
+- Men, Alex Garland, 3.5
 - Ken Park, Larry Clark, 4
 
 ## August 2022
 
 - Bully, Larry Clark, 4
-- The Black Phone, Scott Derrickson, 3.5
+- The Black Phone, Scott Derrickson, 3
 - Kajillionaire, Miranda July, 2022, 4, 👨‍👩‍👧😬➡️💃🏼🥞👩🏻‍🍼👩🏼‍❤️‍💋‍👩🏽
 
 ## July 2022
 
 - Teorema, Pier Paolo Pasolini, 1968, 4
 - The Amateurist *(short)*, Miranda July, 1998, 4
-- Bound, Wachowski sibs., 1996, 3.5, ✂️💰🪢💥👩🏻‍❤️‍💋‍👩🏽
+- Bound, Wachowski sibs., 1996, 3, ✂️💰🪢💥👩🏻‍❤️‍💋‍👩🏽
 - Amarcord, Federico Fellini, 1973, 4.5, 
 - The Very Private Work of Sister K, Johan Liedgren, 2016, 4
 - Blood Simple, Joel and Ethan Coen, 1984, 3.5
