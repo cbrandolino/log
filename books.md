@@ -26,10 +26,12 @@
 
 - Mother for Dinner *(fiction)*, Shalom Auslander, 4
 - The Golden Ass *(fiction)*, Apuleius (tr. Robert Graves), 4.5
-- Foreskin's Lament *(memoir)*, Shalom Auslander, 3.5
+- Foreskin's Lament *(memoir)*, Shalom Auslander, 4
 
 ## March 2022
 
+- The Wisdom of Father Brown, G. K. Chesterton, 3.5
+- The Innocence of Father Brown, G. K. Chesterton, 3.5
 - Cultish, Amanda Montell, 2
 
 ## January 2022
@@ -72,15 +74,14 @@
 
 ## May 2021
 
-- Notes on a Scandal *(fiction)*, Zoë Heller, 4
-- Little Eyes *(fiction)*, Samanta Schweblin, 3
+- Notes on a Scandal *(fiction)*, Zoë Heller, 4.5
+- Little Eyes *(fiction)*, Samanta Schweblin, 2.5
 - Conflict is not Abuse, Sarah Schulman, 3
 - The Dispossessed *(fiction)*, Ursula K. Le Guin, 3.5
 
 ## April 2021
 
 - The Revolt of the Public, Martin Gurri, 4
-
 
 ## March 2021
 
