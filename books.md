@@ -407,5 +407,5 @@
 - The 7 Laws of Magical Thinking, Matthew Hutson, 3
 - Meta Math!, Gergory Chaitin, 2
 - North Korea Confidential, Tudor and Pearson, 3
-- The Language Instinct, Steven Pinker, 3
-- How to make sense of any Mess, Abby Covert, 4
+- The Language Instinct, Steven Pinker, 3.5
+- How to make sense of any Mess, Abby Covert, 4.5
