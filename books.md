@@ -1,8 +1,10 @@
 # Books
 
+- The Case against the Sexual Revolution, Louise Perry, 3
+
 ## August 2022
 
-- The End of the Road, John Barth, 4.5
+- The End of the Road *(Fiction)*, John Barth, 4.5
 - The Machiavellians, James Burnham, 3.5
 - Roland Barthes *(memoir?)*, Roland Barthes, 4
 
