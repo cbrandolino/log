@@ -11,9 +11,9 @@
 
 ## July 2022
 
-- Piranesi, Susanna Clarke, 4
+- Piranesi *(fiction)*, Susanna Clarke, 4
 - God and Golem, Inc., Norbert Wiener, 3.5
-- My Life as a Man, Philip Roth, 4.5
+- My Life as a Man *(fiction), Philip Roth, 4.5
 
 ## June 2022
 
@@ -28,7 +28,7 @@
 ## April 2022
 
 - Mother for Dinner *(fiction)*, Shalom Auslander, 4
-- The Golden Ass *(fiction)*, Apuleius (tr. Robert Graves), 4.5
+- The Golden Ass *(fiction)*, Lucius Apuleius (tr. Robert Graves), 4.5
 - Foreskin's Lament *(memoir)*, Shalom Auslander, 4
 
 ## March 2022
