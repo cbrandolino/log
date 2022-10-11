@@ -1,5 +1,6 @@
 # Books
 
+- The Populist Delusion, Neema Parvini, 3.5
 - The Case against the Sexual Revolution, Louise Perry, 3
 
 ## August 2022
